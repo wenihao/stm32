@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "task_key.h": "c",
+    "config.h": "c",
+    "bsp_led.h": "c",
+    "stm32f10x_adc.h": "c",
+    "stm32f10x_usart.h": "c",
+    "misc.h": "c",
+    "stm32f10x_exti.h": "c",
+    "bsp_exti.h": "c"
+  }
+}
